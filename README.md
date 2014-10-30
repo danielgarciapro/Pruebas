@@ -3,7 +3,7 @@
 Pruebas
 =======
 </head>
-<body>
+<body color="blue">
 repositorio de prueba<br />
 <font color="red">Aqui hare mis pruebas de repositorios, pull y push</font>
 
